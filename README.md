@@ -3,7 +3,7 @@
 
 ## Project Overview:
 
-The Pizza Sales Analysis project leverages a multi-table database to analyze order patterns, customer preferences, and inventory management, ultimately improving operational efficiency by 80%. By using SQL queries, the project extracts, manipulates, and analyzes data, enabling the generation of insightful reports, identification of trends, and support for informed decision-making in pizza sales operation.
+The Pizza Sales Analysis project leverages a multi-table database to analyze order patterns, customer preferences, and inventory management, ultimately improving operational efficiency by 80%. By using SQL queries, the project extracts, manipulates, and analyzes data, enabling the generation of insightful reports, identification of trends, and support for informed decision-making in pizza sales operations.
 
 ## Key Features:
 
